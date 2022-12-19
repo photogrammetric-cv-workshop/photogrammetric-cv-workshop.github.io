@@ -49,7 +49,7 @@ We especially encourage submissions that combine traditional P/CV with modern de
 
 # Sponsors
  
-| <img src="/img/leica.png"  width="200" class="center"> |  <img src="/img/teledyne_logo_blue.png"  width="200">  |  <img src="/img/qiai.png"  width="200">  |
-|:-----------:|:-----------:|:-----------:|
+<img src="/img/leica.png"  width="200" class="center">    <img src="/img/teledyne_logo_blue.png"  width="200" class="center">     <img src="/img/qiai.png"  width="200" class="center"> 
+
 
 
