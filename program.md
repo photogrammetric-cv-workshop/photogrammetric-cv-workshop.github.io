@@ -2,7 +2,9 @@
 layout: page  
 ---
 
-# Preliminary schedule
+# Schedule
+
+(Tentative)
 
 * **13h00 – 13h15** : Welcome
 * **13h15 – 14h00** : Keynote 1
