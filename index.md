@@ -39,8 +39,10 @@ We especially encourage submissions that combine traditional P/CV with modern de
 
 # Supporters
 
-<img src="/img/isprs.png"  width="100">
+{: .center}
+![image](https://photogrammetric-cv-workshop.github.io/img/isprs.png)
 
+{: .center}
 *International Society for Photogrammetry and Remote Sensing*
 
 
