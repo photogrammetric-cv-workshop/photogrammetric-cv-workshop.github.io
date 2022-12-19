@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
  
 ---
-layout: home
-permalink: /about/ 
+layout: home 
 ---
 
 # About
@@ -21,9 +20,9 @@ We especially encourage submissions that combine traditional P/CV with modern de
 
 # Oganisers
 
-| Ewelina Rupnik | Ronny Haensch | Mozhdeh Shabazi |
-|----------------|---------------|-----------------|
-|   LaSTIG,UGE   |     DLR       |     NRCanada    |
+| Ewelina Rupnik | Ronny Hänsch  | Mozhdeh Shabazi |   Jianzhu Huai 	 |      Rongjun Qin      |
+|----------------|---------------|-----------------|------------------|-----------------------|
+|   LaSTIG,UGE   |     DLR       |     NRCanada    | Wuhan University | Ohio State University |
 
  
 
@@ -36,5 +35,10 @@ We especially encourage submissions that combine traditional P/CV with modern de
 
 
 # Important dates
+
+* **Paper submission deadline:** March 20, 2023
+* **Notification to authors:**		March 20, 2023
+* **Camera-ready deadline:**		April 7, 2023
+
 
 # Sponsors
