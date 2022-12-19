@@ -13,7 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Photogrammetric Computer Vision Workshop @CVPR2023
+title: Photogrammetric Computer Vision Workshop
+subtitle: In conjuntion with CVPR2023
 email: photogrammetric.cv.workshop@google.com
 description: >- # this means to ignore newlines until "baseurl:"
   Website for CVPR 2023
