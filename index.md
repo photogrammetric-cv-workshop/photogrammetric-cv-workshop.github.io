@@ -25,9 +25,9 @@ We especially encourage submissions that combine traditional P/CV with modern de
 
 # Invited speakers
  
-* [Derek Lichti](https://profiles.ucalgary.ca/derek-lichti), University of Calgary    **Confirmed**	   
-* [Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986), ETH-Zurich,	**Confirmed**  	
-* [Laura Leal-Taixé](https://dvl.in.tum.de/team/lealtaixe/) NVIDIA/Technical University of Munich 	**Confirmed**	
+* [Derek Lichti](https://profiles.ucalgary.ca/derek-lichti), University of Calgary  (confirmed)  
+* [Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986), ETH-Zurich, (confirmed)
+* [Laura Leal-Taixé](https://dvl.in.tum.de/team/lealtaixe/) NVIDIA/Technical University of Munich 	(confirmed)
 
 
 
@@ -49,6 +49,8 @@ We especially encourage submissions that combine traditional P/CV with modern de
 
 # Sponsors
  
+| <img src="/img/leica.png"  width="200" class="center"> |  <img src="/img/teledyne_logo_blue.png"  width="200">  |  <img src="/img/qiai.png"  width="200">  |
+|:-----------:|:-----------:|:-----------:|
+| Leica | Optech-Teledyne| Qii.AI |
 
-<div style="text-align: justify"> <img src="/img/leica.png"  width="100">   <img src="/img/teledyne_logo_blue.png"  width="100">   <img src="/img/qiai.png"  width="100">  </div>
 
