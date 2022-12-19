@@ -1,9 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
- 
----
-layout: home 
+layout: home  
 ---
 
 # About
@@ -20,17 +16,18 @@ We especially encourage submissions that combine traditional P/CV with modern de
 
 # Oganisers
 
-| Ewelina Rupnik | Ronny Hänsch  | Mozhdeh Shabazi |   Jianzhu Huai 	 |      Rongjun Qin      |
-|----------------|---------------|-----------------|------------------|-----------------------|
-|   LaSTIG,UGE   |     DLR       |     NRCanada    | Wuhan University | Ohio State University |
+| <img src="/img/22-wg2-1-rupnik.jpg"  width="100">  |   <img src="/img/22-wg2-1-haensch.jpg"  width="100">  |  <img src="/img/22-wg2-1-shahbazi.jpg"  width="100">  |  <img src="/img/22-wg2-1-huai.jpg"  width="100"> |  <img src="/img/comm2-22-qin.jpg"  width="100"> |
+|:------------------------:|:---------------:|:--------------------:|:------------------:|:-----------------------:|
+| [Ewelina Rupnik](www.umr-lastig.fr/ewelina-rupnik)           |   [Ronny Hänsch](http://rhaensch.de)  |    [Mozhdeh Shahbazi](https://www.linkedin.com/in/mozhdehsh/)  |     [Jianzhu Huai](https://jianzhuhuai.com) 	 |      [Rongjun Qin](https://u.osu.edu/qin.324/)      |
+|   LaSTIG,UGE             |       DLR       |       NRCanada       |   Wuhan University | Ohio State University |
 
  
 
 # Invited speakers
  
-* [Derek Lichti](https://profiles.ucalgary.ca/derek-lichti)		   **Confirmed**	   
-* [Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986)	**Confirmed**  	
-* [Laura Leal-Taixé](https://dvl.in.tum.de/team/lealtaixe/)	**Confirmed**	
+* [Derek Lichti](https://profiles.ucalgary.ca/derek-lichti), University of Calgary    **Confirmed**	   
+* [Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986), ETH-Zurich,	**Confirmed**  	
+* [Laura Leal-Taixé](https://dvl.in.tum.de/team/lealtaixe/) NVIDIA/Technical University of Munich 	**Confirmed**	
 
 
 
@@ -42,3 +39,9 @@ We especially encourage submissions that combine traditional P/CV with modern de
 
 
 # Sponsors
+
+Center aligned text.
+{: .text-center}
+
+<div style="text-align: justify"> <img src="/img/leica.png"  width="100">   <img src="/img/teledyne_logo_blue.png"  width="100">   <img src="/img/qiai.png"  width="100">  </div>
+
