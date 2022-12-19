@@ -4,7 +4,6 @@
  
 ---
 layout: home
-title: About
 permalink: /about/ 
 ---
 
@@ -21,11 +20,20 @@ The half-day workshop will be held at CVPR2023 and will provide a forum for pres
 We especially encourage submissions that combine traditional P/CV with modern deep learning methods.
 
 # Oganisers
-Ewelina Rupnik|Ronny Haensch|Mozhdeh Shabazi
---|--|--
-LaSTIG,UGE|DLR|NRCanada 
+
+| Ewelina Rupnik | Ronny Haensch | Mozhdeh Shabazi |
+|----------------|---------------|-----------------|
+|   LaSTIG,UGE   |     DLR       |     NRCanada    |
+
+ 
 
 # Invited speakers
+ 
+* [Derek Lichti](https://profiles.ucalgary.ca/derek-lichti)		   **Confirmed**	   
+* [Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986)	**Confirmed**  	
+* [Laura Leal-Taixé](https://dvl.in.tum.de/team/lealtaixe/)	**Confirmed**	
+
+
 
 # Important dates
 
