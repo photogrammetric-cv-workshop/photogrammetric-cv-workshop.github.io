@@ -1,8 +1,8 @@
 ---
-layout: home  
+layout: page  
 ---
 
-## About
+# About
 
 The half-day workshop will be held at CVPR2023 and will provide a forum for presenting original research in computer vision and photogrammetry including the generation, processing, and analysis of images, 3D point clouds and surface models, with the goal of enhancing accuracy and completeness. PCV 2023 invites submissions of high-quality research results as full papers in the format of CVPR 2023. Topics include, but are not limited to: 
 * Feature extraction, matching, and sensor orientation and sensor fusion 
@@ -14,7 +14,7 @@ The half-day workshop will be held at CVPR2023 and will provide a forum for pres
 
 We especially encourage submissions that combine traditional P/CV with modern deep learning methods.
 
-## Oganisers
+# Oganisers
 
 | <img src="/img/22-wg2-1-rupnik.jpg"  width="100">  |   <img src="/img/22-wg2-1-haensch.jpg"  width="100">  |  <img src="/img/22-wg2-1-shahbazi.jpg"  width="100">  |  <img src="/img/22-wg2-1-huai.jpg"  width="100"> |  <img src="/img/comm2-22-qin.jpg"  width="100"> |
 |:------------------------:|:---------------:|:--------------------:|:------------------:|:-----------------------:|
@@ -23,7 +23,7 @@ We especially encourage submissions that combine traditional P/CV with modern de
 
  
 
-## Invited speakers
+# Invited speakers
  
 * [Derek Lichti](https://profiles.ucalgary.ca/derek-lichti), University of Calgary    **Confirmed**	   
 * [Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986), ETH-Zurich,	**Confirmed**  	
@@ -31,14 +31,14 @@ We especially encourage submissions that combine traditional P/CV with modern de
 
 
 
-## Important dates
+# Important dates
 
 * **Paper submission deadline:** March 20, 2023
 * **Notification to authors:**		March 20, 2023
 * **Camera-ready deadline:**		April 7, 2023
 
 
-## Sponsors
+# Sponsors
 
 Center aligned text.
 {: .text-center}
