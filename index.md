@@ -1,8 +1,11 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+ 
+---
 layout: home
+title: About
+permalink: /about/ 
 ---
 
 # About
@@ -18,7 +21,9 @@ The half-day workshop will be held at CVPR2023 and will provide a forum for pres
 We especially encourage submissions that combine traditional P/CV with modern deep learning methods.
 
 # Oganisers
-
+Ewelina Rupnik|Ronny Haensch|Mozhdeh Shabazi
+--|--|--
+LaSTIG,UGE|DLR|NRCanada 
 
 # Invited speakers
 
