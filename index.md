@@ -13,7 +13,7 @@ PCV2023 is a half-day workshop at CVPR2023 which provides a forum for original r
 
 We especially encourage submissions that combine traditional P/CV with modern deep learning methods.
 
-# Oganisers
+# Organisers
 
 | <img src="/img/22-wg2-1-rupnik.jpg"  width="100">  |   <img src="/img/22-wg2-1-haensch.jpg"  width="100">  |  <img src="/img/22-wg2-1-shahbazi.jpg"  width="100">  |  <img src="/img/22-wg2-1-huai.jpg"  width="100"> |  <img src="/img/comm2-22-qin.jpg"  width="100"> |
 |:------------------------:|:---------------:|:--------------------:|:------------------:|:-----------------------:|
