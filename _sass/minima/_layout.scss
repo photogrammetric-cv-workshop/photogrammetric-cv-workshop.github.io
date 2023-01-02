@@ -47,6 +47,26 @@
 }
 
 
+.site-date {
+  @include relative-font-size(1.0);
+  font-weight: bold;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+  text-align: left;
+  color: $border-color-01;
+
+  @include media-query($on-palm) {
+    padding-right: 45px;
+  }
+
+  &,
+  &:visited {
+    color: $site-title-color;
+  }
+}
+
+
 
 .site-nav {
   position: absolute;
