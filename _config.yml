@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Photogrammetric Computer Vision Workshop
-subtitle: In conjuntion with CVPR2023
+subtitle: Jun 19, 2023, Vancouver, Canada, in conjuntion with CVPR2023
 email: photogrammetric.cv.workshop@google.com
 description: >- # this means to ignore newlines until "baseurl:"
   Organised in conjuntion with CVPR2023
