@@ -9,6 +9,7 @@ layout: page
 * **Ludwig Hoegner** - Munich University of Applied Sciences, Germany
 * **Gunho Sohn** - York University, Canada
 * **Bruno Vallet** -  LaSTIG, Univ. Gustave Eiffel, France
+* **Andrea Fusiello** - University of Udine, Italy
 * **Fabio Remondino** - 3DOM, FBK, Italy
 * **Eleonora Maset** - University of Udine, Italy
 * **Franz Rottensteiner** - Leibniz Universität Hannover, Germany
