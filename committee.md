@@ -17,5 +17,7 @@ layout: page
 * **Norbert Haala** - University of Stuttgart, Germany 
 * **Camillo Ressl** - Vienna University of Technology, Austria
 * **Bisheng Yang** - Wuhan University, China 
+* **Uwe Sörgel** - University of Stuttgart, Germany
+* **Pablo Angelo** - DLR, Germany
 
 
