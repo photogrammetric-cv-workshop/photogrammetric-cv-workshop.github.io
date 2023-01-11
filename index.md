@@ -32,9 +32,9 @@ We especially encourage submissions that combine traditional P/CV with modern de
 
 # Important dates
 
-* **Paper submission deadline:** March 6, 2023
-* **Notification to authors:**		March 20, 2023
-* **Camera-ready deadline:**		April 7, 2023
+* **Paper submission deadline:**  <span style="color:red"> Mar 6 '23 11:59 PM PST </span>
+* **Notification to authors:**	<span style="color:black"> Mar 20 '23 11:59 PM PST </span>
+* **Camera-ready deadline:**   <span style="color:black"> April 7 '23 11:59 PM PST </span>
 
 # Supporters
 
