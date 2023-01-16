@@ -17,7 +17,7 @@ We especially encourage submissions that combine traditional P/CV with modern de
 
 | <img src="/img/22-wg2-1-rupnik.jpg"  width="100">  |   <img src="/img/22-wg2-1-haensch.jpg"  width="100">  |  <img src="/img/22-wg2-1-shahbazi.jpg"  width="100">  |  <img src="/img/22-wg2-1-huai.jpg"  width="100"> |  <img src="/img/comm2-22-qin.jpg"  width="100"> |
 |:------------------------:|:---------------:|:--------------------:|:------------------:|:-----------------------:|
-| [Ewelina Rupnik](www.umr-lastig.fr/ewelina-rupnik)           |   [Ronny Haensch](http://rhaensch.de)  |    [Mozhdeh Shahbazi](https://www.linkedin.com/in/mozhdehsh/)  |     [Jianzhu Huai](https://jianzhuhuai.com) 	 |      [Rongjun Qin](https://u.osu.edu/qin.324/)      |
+| [Ewelina Rupnik](https://www.umr-lastig.fr/ewelina-rupnik)           |   [Ronny Haensch](http://rhaensch.de)  |    [Mozhdeh Shahbazi](https://www.linkedin.com/in/mozhdehsh/)  |     [Jianzhu Huai](https://jianzhuhuai.com) 	 |      [Rongjun Qin](https://u.osu.edu/qin.324/)      |
 |   LaSTIG, UGE, ENSG-IGN            |       DLR       |       NRCanada       |   Wuhan University | The Ohio State University |
 
  
@@ -36,14 +36,6 @@ We especially encourage submissions that combine traditional P/CV with modern de
 * **Notification to authors:**	<span style="color:black"> Mar 20 '23 11:59 PM PST </span>
 * **Camera-ready deadline:**   <span style="color:black"> April 7 '23 11:59 PM PST </span>
 
-# Supporters
-
-{: .center}
-![image](https://photogrammetric-cv-workshop.github.io/img/isprs.png)
-
-{: .center}
-*International Society for Photogrammetry and Remote Sensing*
-
 
 
 # Sponsors
@@ -56,5 +48,14 @@ We especially encourage submissions that combine traditional P/CV with modern de
 <img src="/img/silver.png"  width="150" class="center"> 
 <img src="/img/leica.png"  width="120" class="center">   <img src="/img/qiai.png"  width="180" class="center"> 
 
+
+# Supporters
+
+{: .center}
+<img src="/img/sfpt.jpg"  width="125" class="center"> 
+[*Société Française de Photogrammétrie et de Télédétection*](http://www.sfpt.fr/)
+
+<img src="/img/isprs.png"  width="125" class="center"> 
+[*International Society for Photogrammetry and Remote Sensing*](https://www.isprs.org/)
 
 
