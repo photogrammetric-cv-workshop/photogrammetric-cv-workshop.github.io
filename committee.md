@@ -21,5 +21,5 @@ layout: page
 * **Uwe Sörgel** - University of Stuttgart, Germany
 * **Pablo Angelo** - DLR, Germany
 * **Dong Zhen** - Wuhan University, China
-
+* **Sajid Ghuffar** - Institute of Space Technology, Pakistan
 
