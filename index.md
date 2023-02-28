@@ -46,7 +46,7 @@ We especially encourage submissions that combine traditional P/CV with modern de
 <img src="/img/teledyne_logo_blue.png"  width="200" class="center">
 <br>
 <img src="/img/silver.png"  width="150" class="center"> 
-<img src="/img/leica.png"  width="120" class="center">   <img src="/img/qiai.png"  width="180" class="center"> 
+<img src="/img/qiai.png"  width="180" class="center"> 
 
 
 # Supporters
