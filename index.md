@@ -33,8 +33,8 @@ We especially encourage submissions that combine traditional P/CV with modern de
 # Important dates
 
 * **Paper submission deadline:**    ~~Mar 6 '23~~ <span style="color:red"> Mar 10 '23 11:59 PM PST </span>
-* **Notification to authors:**	<span style="color:black"> Mar 20 '23 11:59 PM PST </span>
-* **Camera-ready deadline:**   <span style="color:black"> April 7 '23 11:59 PM PST </span>
+* **Notification to authors:**	<span style="color:black"> Mar 30 '23  </span>
+* **Camera-ready deadline:**   <span style="color:black"> April 6 '23 11:59 PM PST </span>
 
 
 
