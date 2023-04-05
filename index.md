@@ -26,7 +26,6 @@ We especially encourage submissions that combine traditional P/CV with modern de
  
 * [Derek Lichti](https://profiles.ucalgary.ca/derek-lichti), University of Calgary  (confirmed)  
 * [Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986), ETH-Zurich, (confirmed)
-* [Laura Leal-Taixé](https://dvl.in.tum.de/team/lealtaixe/) NVIDIA/Technical University of Munich 	(confirmed)
 
 
 
