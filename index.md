@@ -26,7 +26,7 @@ We especially encourage submissions that combine traditional P/CV with modern de
  
 * [Derek Lichti](https://profiles.ucalgary.ca/derek-lichti), University of Calgary  (confirmed)  
 * [Konrad Schindler](https://igp.ethz.ch/personen/person-detail.html?persid=143986), ETH-Zurich, (confirmed)
-
+* [Federica Arrigoni](https://www.deib.polimi.it/ita/personale/dettagli/765978),  Politecnico di Milano, (confirmed)
 
 
 # Important dates
