@@ -1,18 +1,49 @@
 ---
-layout: page  
+layout: page
 ---
 
 # Schedule
 
 (Tentative)
 
-* **13h00 – 13h15** : Welcome
-* **13h15 – 14h00** : Konrad Schindler, *High-Resolution, Country-Scale Snow Depth Estimation From Satellite Images*
-* **14h00 – 14h30** : Orals 1-2
-* **14h30 – 15h15** : Federica Arrigoni, *Graph solvability in structure from motion* 
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 13h - 13h15 | Welcome |
+| 13h15 - 14h00 | <img src="/img/diamond.png"  width="20"> **Konrad Schindler**, <br><em>High-Resolution, Country-Scale Snow Depth Estimation From Satellite Images</em><br><details>Monitoring snow depth is important for hydrology, hydro-power planning, ecology, and Alpine safety. Existing methods to estimate snow depth over large areas are typically limited to ground sampling distances of ca. 1km. This limits their usage in high alpine areas, where that resolution fails to capture local snow distribution patterns caused by the pronounced topography. I will present recent advances that make it possible to map snow depth at spatial resolution down to 10m GSD, with weekly updates. By fusing an elevation model and time series of Sentinel-1 and Sentinel-2 images with a recurrent convolutional neural network, we are able to produce country-wide high-resolution snow depth maps without in-situ data. Optionally, these maps can be further refined by combining them with sparse point observations from ground measurement stations. All maps are accompanied by spatially explicit maps of prediction uncertainty, thanks to a probabilistic deep learning framework.</details> |
+| 14h00 - 14h30 | Orals 1-2 |
+| 14h30 - 15h15 | <img src="/img/diamond.png"  width="20"> **Federica Arrigoni**, <br><em>Graph solvability in structure from motion</em><br><details> Coming up! </details> |
+| | Afternoon break & poster session |
+| 16h15 - 17h00 | <img src="/img/diamond.png"  width="20"> **Derek Lichti** <br><details> Coming up! </details> |
+| 17h00 - 17h45 | Orals 3-5 |
+| 17h45 - 18h00 | Closing remarks |
 
-Afternoon coffee break and poster session
+<style>
+.collapsible p {
+  margin-top: 0;
+}
 
-* **16h15 – 17h00**	:	Derek Lichti
-* **17h00 – 17h45**	:	Orals 3-5
-* **17h45 – 18h00**	:	Closing Remarks
+.collapsible summary::-webkit-details-marker {
+  display: none;
+}
+
+.collapsible summary {
+  cursor: pointer;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.collapsible p {
+  margin: 0 0 10px 0;
+}
+
+table {
+  border-collapse: collapse;
+  border: none;
+  background-color: transparent;
+}
+
+table td,
+table th {
+  border: none;
+}
+
+</style>
