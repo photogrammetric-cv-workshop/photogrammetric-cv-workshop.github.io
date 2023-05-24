@@ -17,7 +17,7 @@ We especially encourage submissions that combine traditional P/CV with modern de
 
 | <img src="/img/22-wg2-1-rupnik.jpg"  width="100">  |   <img src="/img/22-wg2-1-haensch.jpg"  width="100">  |  <img src="/img/22-wg2-1-shahbazi.jpg"  width="100">  |  <img src="/img/22-wg2-1-huai.jpg"  width="100"> |  <img src="/img/comm2-22-qin.jpg"  width="100"> |
 |:------------------------:|:---------------:|:--------------------:|:------------------:|:-----------------------:|
-| [Ewelina Rupnik](https://www.umr-lastig.fr/ewelina-rupnik)           |   [Ronny Haensch](http://rhaensch.de)  |    [Mozhdeh Shahbazi](https://www.linkedin.com/in/mozhdehsh/)  |     [Jianzhu Huai](https://jianzhuhuai.com) 	 |      [Rongjun Qin](https://u.osu.edu/qin.324/)      |
+| [Ewelina Rupnik](https://www.umr-lastig.fr/ewelina-rupnik)           |   [Ronny Hänsch](http://rhaensch.de)  |    [Mozhdeh Shahbazi](https://www.linkedin.com/in/mozhdehsh/)  |     [Jianzhu Huai](https://jianzhuhuai.com) 	 |      [Rongjun Qin](https://u.osu.edu/qin.324/)      |
 |   LaSTIG, UGE, ENSG-IGN            |       DLR       |       NRCanada       |   Wuhan University | The Ohio State University |
 
  
